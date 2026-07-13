@@ -1,25 +1,16 @@
-TO ONI PROJEKTUJĄ — V32 MAGAZINE WOW
+TO ONI PROJEKTUJĄ — V33 FREE CONCEPT
 
-Gotowa paczka zawiera pliki do wgrania luzem do głównego katalogu GitHub Pages:
-- index.html
-- style.css
-- script.js
-- wszystkie obrazy i logo
+To jest całkowicie autorska wersja alternatywna, oderwana od wcześniejszego układu.
 
-Najważniejsze zmiany:
-- intro wykonywane bezpośrednio nad hero
-- pełnoekranowe hero ze zmieniającym się słowem
-- magazynowa sekcja O nas
-- ruchomy przerywnik filozofii
-- pełnoekranowy slider realizacji z podglądem kolejnego projektu
-- interaktywna sekcja Co projektujemy
-- cztery rozszerzające się pakiety obok siebie
-- proces jako zakładki + jeden dynamiczny panel
-- formularz kontaktowy w trzech krokach
-- mapa i rozbudowana stopka
-- zachowane firmowe kolory RGB:
-  niebieski 52,87,152
-  żółty 195,139,9
+Najważniejsze elementy:
+- kinetyczne hero z ruchomym kolażem i paralaksą myszy
+- zmieniające się hasło
+- nieliniowa sekcja studia z nakładającymi się warstwami
+- poziomy scroll realizacji sterowany przewijaniem strony
+- interaktywne tło sekcji „Co projektujemy”
+- pakiety pokazane jako talia kart
+- proces przedstawiony jako orbita z dynamicznym centrum
+- rozbudowany kontakt, mapa i ciemna stopka
+- formularz testowo wysyła wiadomości na: jakubskrzypiec.dev@gmail.com
 
-Formularz testowo wysyła wiadomości na:
-jakubskrzypiec.dev@gmail.com
+Wgraj wszystkie pliki luzem do głównego katalogu nowego repozytorium GitHub Pages.
